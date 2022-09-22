@@ -1,10 +1,10 @@
-Developer Nmae:- Kshitize Dimri
+Developer Name:- Kshitize Dimri
 
 This project demonstrates how transactions can happen over Goerli Test Network.
 
 ** To tryout this project, connect your Metamask account with Goerli Test Network. 
 
-Features of the Porject:-
+Features of the Project:-
 1. Current address of the wallet is displayed on the card.
 2. You can enter the address on which you want to send the transaction.
 3. Enter the amount along with Keyword and message.
